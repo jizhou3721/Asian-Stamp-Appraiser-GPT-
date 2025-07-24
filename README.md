@@ -1,4 +1,4 @@
-# 🧧 Asian Stamp Appraiser GPT
+# Asian Stamp Appraiser GPT
 
 **Custom GPT for visual-based stamp valuation — focused on Asian philately (China, Japan, Korea, Taiwan, India).**
 
@@ -44,9 +44,8 @@ Includes a **valuation table**:
 - Market data aggregation (eBay, Rakuten, CamelCamelCamel)
 
 ## 📸 Screenshots & Demos
-![UI Screenshot](./screenshots/appraiser-ui-demo.png)
+![UI Screenshot](./screenshots/Homg_page.png)
 
-More examples: [Examples Folder](./examples)
 
 ## 📂 File Overview
 - `gpt-config/`: Prompt & instruction files
@@ -56,7 +55,7 @@ More examples: [Examples Folder](./examples)
 - `LICENSE`: Open-source usage terms
 
 ## 🗣️ About the Creator
-Created by [Your Name](https://your-portfolio-or-linkedin.com)  
+Created by [Jing Zhou]
 Specializing in custom GPT development, RAG pipelines, and multimodal LLMs.
 
 ---
