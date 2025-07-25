@@ -45,6 +45,7 @@ Includes a **valuation table**:
 
 ## 📸 Screenshots & Demos
 ![UI Screenshot](./screenshots/Homg_page.png)
+[![Try on ChatGPT](https://img.shields.io/badge/Try_on_ChatGPT-blue?logo=openai)](https://chatgpt.com/g/g-6882984bbc788191ae540743a8ece9dc-asian-china-japan-korea-india-stamp-appraiser)
 
 
 ## 📂 File Overview
